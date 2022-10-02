@@ -1,4 +1,4 @@
-# Atividade - Enterprise Connection – Fase 1
+# Atividade - Responsividada
 
 ## Tecnologias Utilizadas:
 
